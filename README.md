@@ -3,6 +3,8 @@ Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.an
 [Copenhagen Institute for Interactive Design](http://ciid.dk/education/summer-school/ciid-summer-school-2016/workshops/eccentric-interfaces-environmental-interventions/)  
 July 25th – 29th, 2016  
 
+Class notes [online here](https://tegacodes.github.io/Eccentric-Interfaces/#/)
+
 ##Description:
 How can design shift our perception of natural systems and other lifeforms? How can our technological interfaces be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges ‘non-human’ perspectives look like?  
 
