@@ -4,10 +4,7 @@
 * Joseph Beuys   
 * Natalie Jeremijenko:
 	* [Exploring Urban](https://vimeo.com/68771598)
-	* Tree Office - http://www.environmentalhealthclinic.net/portfolio_page/treexoffice/
-	* Moth Cinema - http://www.environmentalhealthclinic.net/portfolio_page/moth-cinema/
-	* OOZ - http://www.environmentalhealthclinic.net/ooz/category/projects/
-* Sputnik - crow work, period work
+* Sputniko - http://sputniko.com/
 * Hans Haack, Condensation Cube
 * Pierre Huyghe - http://www.artnews.com/2014/11/18/pierre-huyghe/ 
 * Cohen Van Balen 
@@ -38,13 +35,81 @@
 * Lucas Ihlein 
 	* Walking upstream - http://lucasihlein.net/Walking-Upstream-Waterways-of-the-Illawarra
 	* Environmental Audit - http://lucasihlein.net/Environmental-Audit
-* [Brandon Ballengee](http://brandonballengee.com/projects/love-motels/)
-	* [Reading](http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf)
+* Brandon Ballengee - http://brandonballengee.com/projects/love-motels
+	* http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf
 
 ###Ecological Design
 * Terraform
 * The Living
 * Scape Studio
+
+##Projects by Issue
+***Water***
+
+* Babbling Brook - https://www.youtube.com/watch?v=yP3mvWlxwxE
+* Mussel Choir - http://www.carbonarts.org/projects/melbourne-mussel-choir/ 
+* Coin Operated Wetland - http://www.tegabrain.com/Coin-Operated-Wetland 
+* Spencer Finch, The River that Flows both ways - http://art.thehighline.org/project/spencerfinch/ 
+* Mitchell Whitelaw - http://mtchl.net/weather-bracelet/ 
+
+***Air***
+
+* Airy Light - http://www.annelieberner.com/AiryLight 
+Green Light - http://www.environmentalhealthclinic.net/portfolio_page/greenlight/ 
+* Smog Tasting - http://genomicgastronomy.com/work/2015-2/smog-synthesizer/ 
+* Oceans of Air - http://www.tegabrain.com/Oceans-of-Air 
+* Public Smog - Amy Balkin - http://www.publicsmog.org/ 
+* Puff - Karolina Soebecka - http://www.gravitytrap.com/artwork/puff 
+* Statistic Garden - Amy Balking - http://tomorrowmorning.net/statisticgarden 
+* Cloud tasting -Karolina Soebecka -  http://www.gravitytrap.com/artwork/project-sky 
+* Carbon Pencils Gyorgyi Galkik and others - http://gyorgyigalik.com/Experiments-with-Invisible-Pollutants-I-Carbon-Pencils 
+* All works in http://carbonarts.org/wp-content/uploads/2015/05/BREATHE-exhibition-WHO-catalogue-Vellum-print.pdf 
+* Agnes Meyer-Brandis - Teacup tools - http://www.blubblubb.net/tea/index.html
+
+***Climate Change***
+
+* Phenology - Vegetation Botany - http://tegabrain.com/The-Phenology-Clock and more here: http://www.environmentalhealthclinic.net/phenologics/
+* Keeping Time - http://www.tegabrain.com/Keeping-Time 
+* Hehe -Green Cloud -  http://hehe.org.free.fr/hehe/NV09/index.html 
+* Mitchel Whitelaw - http://mtchl.net/measuring-cup/ 
+* Monitoring Change - http://monitorchange.org/ 
+
+***Soil/Pollution***
+
+* Soil Kitchen - Future Farmers - http://www.danallende.com/index.php?/project/soil-kitchen/ 
+* Brooke Singer - Toxic Sites - http://www.toxicsites.us/ 
+* Empty Lot - http://www.tate.org.uk/whats-on/tate-modern/exhibition/hyundai-commission-2015-abraham-cruzvillegas-empty-lot 
+* Breast Milk Cheese - http://www.miriamsimun.com/human-cheese/ 
+* Tarike Hapooje -  http://www.terikehaapoja.net/inhale-exhale-2/ 
+
+***Environmental Policy/Governance***
+
+* Amy Balkin, Reading the IPCC Synthesis Report: Summary for Policymakers (2008) - http://tomorrowmorning.net/synthesis 
+* Public Smog, Amy Balkin - http://www.publicsmog.org/ 
+
+***Participation/Subjectivity/Representation of non-humans***
+
+* Tree Office, Natalie Jeremijenko - http://www.environmentalhealthclinic.net/portfolio_page/treexoffice/
+* Entropy - Terike Haapoje - http://www.terikehaapoja.net/entropy-2004/ 
+* Natalie Jeremijenko ooZ - http://www.environmentalhealthclinic.net/ooz/category/projects/ * Tree Drawings - http://www.timknowles.co.uk/work/treedrawings/tabid/265/default.aspx 
+* Moth Cinema - https://vimeo.com/47713836 
+* Cloud OCR - http://ifyoulived.org/translations.html 
+* Céleste Boursier-Mougenot - https://www.youtube.com/watch?v=8ZQ4VmicDeM 
+
+***Interspecies communication***
+
+* Dialogue - Terike Haapoje - http://www.terikehaapoja.net/dialogue/ 
+* For the Birds - Dan Allende - http://www.danallende.com/index.php?/forthebirds/about/ 
+* Sputniko - Crowbot Jenny - http://sputniko.com/2011/08/crowbot-jenny-2011/
+* Agnes Meyer-Brandis, Moon Goose Colony - http://www.blubblubb.net/mga/moon-goose-colony-video.html
+
+***Data representation/performance strategies***
+
+* Natalie Miebach - Data Sculpture - http://nathaliemiebach.com/ 
+* Music for Heart and Breath - https://www.youtube.com/watch?v=6hwgfiIeHkM 
+* Data Crusine - http://data-cuisine.net/
+* Smell Dating - http://smell.dating
+
 
 ## Texts and readings
 ####Ecocriticism/Anthropocene
@@ -84,8 +149,10 @@ Tools for Conviviality.)
 ##Tech
 
 * p5js
-* D3
+* D3 
+* or both (http://sciutoalex.github.io/p5-D3-cookbook/?utm_content=buffer62401&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
 * [Smart Citizen Kit](https://smartcitizen.me/)
+* [Public Lab kits]()
 
 ##Related Syllabus/Workshops
 Syllabus/workshops for inspiration
