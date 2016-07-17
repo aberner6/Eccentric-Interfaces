@@ -208,14 +208,15 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #00D455;
+  color: #222;
+  background-color:#1dbbbb;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #1dbbbb;
+  color: #222;
   text-shadow: none;
   border: none; }
 
@@ -294,7 +295,9 @@ body {
   text-shadow: 1px 1px #222; }
 
 .reveal h1,
-.reveal h2,
+.reveal h2{
+  color: #00D455;
+}
 .reveal h3,
 .reveal h4,
 .reveal h5,

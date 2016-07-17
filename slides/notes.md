@@ -37,6 +37,7 @@
 	* Environmental Audit - http://lucasihlein.net/Environmental-Audit
 * Brandon Ballengee - http://brandonballengee.com/projects/love-motels
 	* http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf
+* [Foam](http://fo.am/activities/) http://machinewilderness.net/
 
 ###Ecological Design
 * Terraform
